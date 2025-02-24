@@ -105,6 +105,7 @@ Sitten kokeilin microsoft.com
 
 ![kuva](https://github.com/user-attachments/assets/6cdbe70d-a8a4-42f0-8323-f6641648a673)
 ![kuva](https://github.com/user-attachments/assets/fea1fa96-84d1-4834-a84b-bcd6fa3613a3)
+
  microsoft.com palauttaa useita IP-osoitteita, kaikki Azure-alueella
  Jokaisen A-tietueen TTL on 70 sekuntia.
 
