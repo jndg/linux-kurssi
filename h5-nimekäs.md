@@ -112,9 +112,13 @@ Sitten kokeilin microsoft.com
 ## Lähteet
 
 https://terokarvinen.com/linux-palvelimet/#h5-nimekas
+
 https://education.github.com/pack
+
 https://cloud.digitalocean.com/
+
 https://www.namecheap.com/
+
 https://superuser.com/questions/141623/installing-dig-on-debian
 
 
