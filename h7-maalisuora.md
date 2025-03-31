@@ -74,6 +74,9 @@ env TZ="$1" date +"%d-%m-%Y %T %Z"
 
 ```
 
+Tämän loin vain koittamalla eri juttuja ja yhdistelemällä niitä, 
+lähteenä: https://tldp.org/LDP/abs/html/timedate.html#CLOCKREF
+
 Testasin komentoa bash timezone EET:
 
 ![kuva](https://github.com/user-attachments/assets/c7349593-1f92-4048-ba5a-d406ef808c6b)
